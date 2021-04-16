@@ -1,0 +1,663 @@
+Movie,Director,Genre,Gross (millions USD),Rating
+The Truman Show,Peter Weir,"Comedy, Drama",125.62,8.1
+Iron Man,Jon Favreau,"Action, Adventure, Sci-Fi",318.41,7.9
+Up,Pete Docter,"Animation, Adventure, Comedy",293,8.2
+Reservoir Dogs,Quentin Tarantino,"Crime, Drama, Thriller",2.83,8.3
+One Flew Over the Cuckoo's Nest,Milos Forman,Drama,112,8.7
+Eternal Sunshine of the Spotless Mind,Michel Gondry,"Drama, Romance, Sci-Fi",34.4,8.3
+The Sixth Sense,M. Night Shyamalan,"Drama, Mystery, Thriller",293.51,8.1
+Deadpool,Tim Miller,"Action, Adventure, Comedy",363.07,8
+The Shining,Stanley Kubrick,"Drama, Horror",44.02,8.4
+Toy Story,John Lasseter,"Animation, Adventure, Comedy",191.8,8.3
+Mad Max: Fury Road,George Miller,"Action, Adventure, Sci-Fi",154.06,8.1
+Indiana Jones and the Raiders of the Lost Ark,Adolf Hitler,"Action, Adventure",248.16,8.4
+Jurassic Park,Steven Spielberg,"Action, Adventure, Sci-Fi",402.45,8.1
+Gone Girl,David Fincher,"Drama, Mystery, Thriller",167.77,8.1
+Good Will Hunting,Gus Van Sant,"Drama, Romance",138.43,8.3
+No Country for Old Men,Ethan Coen,"Crime, Drama, Thriller",74.28,8.1
+The Shawshank Redemption,Frank Darabont,Drama,28.34,9.3
+Star Wars: Episode VII - The Force Awakens,J.J. Abrams,"Action, Adventure, Sci-Fi",936.66,7.9
+Avengers: Infinity War,Anthony Russo,"Action, Adventure, Sci-Fi",678.82,8.4
+A Beautiful Mind,John Nash,"Biography, Drama",170.74,8.2
+Avengers: Endgame,Avengers: Infinity War,"Action, Adventure, Drama",858.37,8.4
+The Hunger Games,Gary Ross,"Action, Adventure, Sci-Fi",408.01,7.2
+Catch Me If You Can,Steven Spielberg,"Biography, Crime, Drama",164.62,8.1
+"Monsters, Inc.",Pete Docter,"Animation, Adventure, Comedy",289.92,8.1
+Slumdog Millionaire,Danny Boyle,"Drama, Romance",141.32,8
+The Terminator,James Cameron,"Action, Sci-Fi",38.4,8
+Die Hard,John McTiernan,"Action, Thriller",83.01,8.2
+Alien,Ridley Scott,"Horror, Sci-Fi",78.9,8.4
+Snatch,Guy Ritchie,"Comedy, Crime",30.33,8.3
+Requiem for a Dream,Darren Aronofsky,Drama,3.64,8.3
+Harry Potter and the Deathly Hallows: Part 2,David Yates,"Adventure, Drama, Fantasy",381.01,8.1
+Gravity,Alfonso Cuarón,"Drama, Sci-Fi, Thriller",274.09,7.7
+The Intouchables,Olivier Nakache,"Biography, Comedy, Drama",13.18,8.5
+The Martian,Ridley Scott,"Adventure, Drama, Sci-Fi",228.43,8
+Iron Man 3,Shane Black,"Action, Adventure, Sci-Fi",409.01,7.1
+The Dark Knight,Christopher Nolan,"Action, Crime, Drama",534.86,9
+Inception,Christopher Nolan,"Action, Adventure, Sci-Fi",292.58,8.8
+Fight Club,Edward Norton,Drama,37.03,8.8
+Pulp Fiction,Quentin Tarantino,"Crime, Drama",107.93,8.9
+Forrest Gump,Robert Zemeckis,"Drama, Romance",330.25,8.8
+The Matrix,Lana Wachowski,"Action, Sci-Fi",171.48,8.7
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,"Action, Adventure, Drama",315.54,8.8
+The Lord of the Rings: The Return of the King,Peter Jackson,"Action, Adventure, Drama",377.85,8.9
+The Godfather,Francis Ford Coppola,"Crime, Drama",134.97,9.2
+Interstellar,Christopher Nolan,"Adventure, Drama, Sci-Fi",188.02,8.6
+The Dark Knight Rises,Christopher Nolan,"Action, Adventure",448.14,8.4
+The Lord of the Rings: The Two Towers,Peter Jackson,"Action, Adventure, Drama",342.55,8.7
+Se7en,David Fincher,"Crime, Drama, Mystery",100.13,8.6
+Django Unchained,Quentin Tarantino,"Drama, Western",162.81,8.4
+Gladiator,Ridley Scott,"Action, Adventure, Drama",187.71,8.5
+Batman Begins,Christopher Nolan,"Action, Adventure",206.85,8.2
+A Clockwork Orange,Stanley Kubrick,"Crime, Drama, Sci-Fi",6.21,8.3
+Toy Story 3,Lee Unkrich,"Animation, Adventure, Comedy",415,8.2
+The Hobbit: An Unexpected Journey,Peter Jackson,"Adventure, Fantasy",303,7.8
+Avengers: Age of Ultron,Joss Whedon,"Action, Adventure, Sci-Fi",459.01,7.3
+Thor,Kenneth Branagh,"Action, Adventure, Fantasy",181.03,7
+Captain America: The First Avenger,Joe Johnston,"Action, Adventure, Sci-Fi",176.65,6.9
+Scarface,Brian De Palma,"Crime, Drama",45.6,8.3
+Captain America: The Winter Soldier,Anthony Russo,"Action, Adventure, Sci-Fi",259.77,7.7
+Donnie Darko,Richard Kelly,"Drama, Mystery, Sci-Fi",1.48,8
+The Pianist,Roman Polanski,"Biography, Drama, Music",32.57,8.5
+Sin City,Frank Miller,"Crime, Thriller",74.1,8
+The Big Lebowski,Joel Coen,"Comedy, Crime, Sport",17.5,8.1
+300,Zack Snyder,"Action, Drama",210.61,7.6
+Star Wars: Episode I - The Phantom Menace,George Lucas,"Action, Adventure, Fantasy",474.54,6.5
+Taxi Driver,Martin Scorsese,"Crime, Drama",28.26,8.2
+Iron Man 2,Jon Favreau,"Action, Adventure, Sci-Fi",312.43,7
+The Silence of the Lambs,Jonathan Demme,"Crime, Drama, Thriller",130.74,8.6
+Inglourious Basterds,Quentin Tarantino,"Adventure, Drama, War",120.54,8.3
+The Avengers,Joss Whedon,"Action, Adventure, Sci-Fi",623.28,8
+Saving Private Ryan,Steven Spielberg,"Drama, War",216.54,8.6
+Star Wars: Episode IV - A New Hope,George Lucas,"Action, Adventure, Fantasy",322.74,8.6
+Schindler's List,Oskar Schindler,"Biography, Drama, History",96.9,8.9
+The Wolf of Wall Street,Jordan Belfort,"Biography, Crime, Drama",116.9,8.2
+The Prestige,Christopher Nolan,"Drama, Mystery, Sci-Fi",53.09,8.5
+The Departed,Martin Scorsese,"Crime, Drama, Thriller",132.38,8.5
+Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,"Action, Adventure, Fantasy",290.48,8.7
+The Green Mile,Frank Darabont,"Crime, Drama, Fantasy",136.8,8.6
+Shutter Island,Martin Scorsese,"Mystery, Thriller",128.01,8.2
+The Godfather: Part II,Francis Ford Coppola,"Crime, Drama",57.3,9
+Memento,Christopher Nolan,"Mystery, Thriller",25.54,8.4
+Avatar,James Cameron,"Action, Adventure, Fantasy",760.51,7.8
+American Beauty,Sam Mendes,Drama,130.1,8.3
+Back to the Future,Robert Zemeckis,"Adventure, Comedy, Sci-Fi",210.61,8.5
+Titanic,James Cameron,"Drama, Romance",659.33,7.8
+Guardians of the Galaxy,James Gunn,"Action, Adventure, Comedy",333.18,8
+Léon: The Professional,Luc Besson,"Action, Crime, Drama",19.5,8.5
+American History X,Tony Kaye,Drama,6.72,8.5
+V for Vendetta,James McTeigue,"Action, Drama, Sci-Fi",70.51,8.2
+Goodfellas,Henry Hill,"Biography, Crime, Drama",46.84,8.7
+Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,"Action, Adventure, Fantasy",305.41,8
+WALL·E,Andrew Stanton,"Animation, Adventure, Family",223.81,8.4
+Kill Bill: Vol. 1,Quentin Tarantino,"Action, Crime, Drama",70.1,8.1
+Terminator 2: Judgment Day,James Cameron,"Action, Sci-Fi",204.84,8.5
+The Usual Suspects,Bryan Singer,"Crime, Mystery, Thriller",23.34,8.5
+Joker,Todd Phillips,"Crime, Drama, Thriller",335.45,8.4
+Whiplash,Damien Chazelle,"Drama, Music",13.09,8.5
+Braveheart,Mel Gibson,"Biography, Drama, History",75.6,8.3
+Star Wars: Episode VI - Return of the Jedi,Richard Marquand,"Action, Adventure, Fantasy",309.13,8.3
+Finding Nemo,Andrew Stanton,"Animation, Adventure, Comedy",380.84,8.1
+The Lion King,Roger Allers,"Animation, Adventure, Drama",422.78,8.5
+Gran Torino,Clint Eastwood,Drama,148.1,8.1
+The Hangover,Todd Phillips,Comedy,277.32,7.7
+The Grand Budapest Hotel,Wes Anderson,"Adventure, Comedy, Crime",59.1,8.1
+Star Wars: Episode III - Revenge of the Sith,George Lucas,"Action, Adventure, Fantasy",380.26,7.5
+The Revenant,Alejandro G. Iñárritu,"Action, Adventure, Drama",183.64,8
+Man of Steel,Zack Snyder,"Action, Adventure, Sci-Fi",291.05,7
+Amélie,Jean-Pierre Jeunet,"Comedy, Romance",33.23,8.3
+Black Swan,Darren Aronofsky,"Drama, Thriller",106.95,8
+City of God,Fernando Meirelles,"Crime, Drama",7.56,8.6
+Blade Runner,Ridley Scott,"Action, Sci-Fi, Thriller",32.87,8.1
+12 Angry Men,Sidney Lumet,"Crime, Drama",4.36,9
+Indiana Jones and the Last Crusade,Adolf Hitler,"Action, Adventure",197.17,8.2
+"The Good, the Bad and the Ugly",Sergio Leone,Western,6.1,8.8
+Spider-Man,Sam Raimi,"Action, Adventure, Sci-Fi",403.71,7.3
+The Imitation Game,Alan Turing,"Biography, Drama, Thriller",91.13,8
+L.A. Confidential,Curtis Hanson,"Crime, Drama, Mystery",64.62,8.2
+I Am Legend,Francis Lawrence,"Action, Adventure, Drama",256.39,7.2
+Kill Bill: Vol. 2,Quentin Tarantino,"Action, Crime, Thriller",66.21,8
+Full Metal Jacket,Stanley Kubrick,"Drama, War",46.36,8.3
+Captain America: Civil War,Anthony Russo,"Action, Adventure, Sci-Fi",408.08,7.8
+How to Train Your Dragon,Dean DeBlois,"Animation, Action, Adventure",217.58,8.1
+Harry Potter and the Sorcerer's Stone,Chris Columbus,"Adventure, Family, Fantasy",317.58,7.6
+Silver Linings Playbook,David O. Russell,"Comedy, Drama, Romance",132.09,7.7
+X-Men: Days of Future Past,Bryan Singer,"Action, Adventure, Sci-Fi",233.92,7.9
+Spirited Away,Hayao Miyazaki,"Animation, Adventure, Family",10.06,8.6
+The Incredibles,Brad Bird,"Animation, Action, Adventure",261.44,8
+Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,"Action, Adventure, Fantasy",423.32,7.3
+Logan,James Mangold,"Action, Drama, Sci-Fi",226.28,8.1
+Aliens,James Cameron,"Action, Adventure, Sci-Fi",85.16,8.3
+X-Men: First Class,Matthew Vaughn,"Action, Adventure, Sci-Fi",146.41,7.7
+Star Wars: Episode II - Attack of the Clones,George Lucas,"Action, Adventure, Fantasy",310.68,6.5
+Toy Story 2,John Lasseter,"Animation, Adventure, Comedy",245.85,7.9
+Cast Away,Robert Zemeckis,"Adventure, Drama, Romance",233.63,7.8
+Independence Day,Roland Emmerich,"Action, Adventure, Sci-Fi",306.17,7
+Limitless,Neil Burger,"Sci-Fi, Thriller",79.25,7.4
+Kick-Ass,Matthew Vaughn,"Action, Comedy, Crime",48.07,7.6
+Casablanca,Michael Curtiz,"Drama, Romance, War",1.02,8.5
+The Notebook,Nick Cassavetes,"Drama, Romance",81,7.8
+The Hateful Eight,Quentin Tarantino,"Crime, Drama, Mystery",54.12,7.8
+Superbad,Greg Mottola,Comedy,121.46,7.6
+There Will Be Blood,Paul Thomas Anderson,Drama,40.22,8.2
+Spider-Man: Homecoming,Jon Watts,"Action, Adventure, Sci-Fi",334.2,7.4
+Rocky,John G. Avildsen,"Drama, Sport",117.24,8.1
+Zombieland,Ruben Fleischer,"Adventure, Comedy, Fantasy",75.59,7.6
+Oldboy,Chan-wook Park,"Action, Drama, Mystery",0.71,8.4
+Ocean's Eleven,Steven Soderbergh,"Crime, Thriller",183.42,7.7
+Ratatouille,Brad Bird,"Animation, Adventure, Comedy",206.45,8
+12 Years a Slave,Solomon Northup,"Biography, Drama, History",56.67,8.1
+Batman v Superman: Dawn of Justice,Zack Snyder,"Action, Adventure, Sci-Fi",330.36,6.4
+The King's Speech,King George VI,"Biography, Drama, History",138.8,8
+Million Dollar Baby,Clint Eastwood,"Drama, Sport",100.49,8.1
+District 9,Neill Blomkamp,"Action, Sci-Fi, Thriller",115.65,7.9
+Trainspotting,Danny Boyle,Drama,16.5,8.1
+Black Panther,Ryan Coogler,"Action, Adventure, Sci-Fi",700.06,7.3
+Skyfall,Sam Mendes,"Action, Adventure, Thriller",304.36,7.8
+The Social Network,Mark Zuckerberg,"Biography, Drama",96.96,7.7
+Life Is Beautiful,Roberto Benigni,"Comedy, Drama, Romance",57.6,8.6
+Inside Out,Pete Docter,"Animation, Adventure, Comedy",356.46,8.1
+Fargo,Joel Coen,"Crime, Drama, Thriller",24.61,8.1
+Pan's Labyrinth,Guillermo del Toro,"Drama, Fantasy, War",37.63,8.2
+Shrek,Andrew Adamson,"Animation, Adventure, Comedy",267.67,7.8
+Twilight,Catherine Hardwicke,"Drama, Fantasy, Romance",191.47,5.2
+Psycho,Alfred Hitchcock,"Horror, Mystery, Thriller",32,8.5
+The Matrix Reloaded,Lana Wachowski,"Action, Sci-Fi",281.49,7.2
+Men in Black,Barry Sonnenfeld,"Action, Adventure, Comedy",250.69,7.3
+Harry Potter and the Order of the Phoenix,David Yates,"Action, Adventure, Family",292,7.5
+Shaun of the Dead,Edgar Wright,"Comedy, Horror",13.54,7.9
+X2: X-Men United,Bryan Singer,"Action, Sci-Fi, Thriller",214.95,7.4
+La La Land,Damien Chazelle,"Comedy, Drama, Music",151.1,8
+21 Jump Street,Phil Lord,"Action, Comedy, Crime",138.45,7.2
+The Bourne Identity,Doug Liman,"Action, Mystery, Thriller",121.66,7.9
+Minority Report,Steven Spielberg,"Action, Crime, Mystery",132.07,7.6
+Watchmen,Zack Snyder,"Action, Drama, Mystery",107.51,7.6
+Despicable Me,Pierre Coffin,"Animation, Comedy, Crime",251.51,7.6
+Monty Python and the Holy Grail,Terry Gilliam,"Adventure, Comedy, Fantasy",1.23,8.2
+Spider-Man 3,Sam Raimi,"Action, Adventure, Sci-Fi",336.53,6.2
+Blood Diamond,Edward Zwick,"Adventure, Drama, Thriller",57.37,8
+Get Out,Jordan Peele,"Horror, Mystery, Thriller",176.04,7.7
+The Hunger Games: Catching Fire,Francis Lawrence,"Action, Adventure, Mystery",424.67,7.5
+Suicide Squad,David Ayer,"Action, Adventure, Fantasy",325.1,6
+Apocalypse Now,Francis Ford Coppola,"Drama, Mystery, War",83.47,8.4
+Prisoners,Denis Villeneuve,"Crime, Drama, Mystery",61,8.1
+Divergent,Neil Burger,"Action, Adventure, Mystery",150.95,6.6
+Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,"Action, Adventure",317.1,6.1
+The Girl with the Dragon Tattoo,David Fincher,"Crime, Drama, Mystery",102.52,7.8
+Spotlight,Tom McCarthy,"Biography, Crime, Drama",45.06,8.1
+Captain Phillips,Richard Phillips,"Adventure, Biography, Crime",107.1,7.8
+The Hurt Locker,Kathryn Bigelow,"Drama, Thriller, War",17.02,7.5
+Kung Fu Panda,Mark Osborne,"Animation, Action, Adventure",215.43,7.6
+Shrek 2,Andrew Adamson,"Animation, Adventure, Comedy",436.47,7.2
+Horrible Bosses,Seth Gordon,"Comedy, Crime",117.54,6.9
+Sherlock Holmes: A Game of Shadows,Guy Ritchie,"Action, Adventure, Mystery",186.85,7.5
+Mystic River,Clint Eastwood,"Crime, Drama, Mystery",90.14,7.9
+The Maze Runner,Wes Ball,"Action, Mystery, Sci-Fi",102.43,6.8
+Crash,Paul Haggis,"Crime, Drama, Thriller",54.58,7.7
+Elysium,Neill Blomkamp,"Action, Drama, Sci-Fi",93.05,6.6
+The Amazing Spider-Man 2,Marc Webb,"Action, Adventure, Fantasy",202.85,6.6
+Lost in Translation,Sofia Coppola,"Comedy, Drama",44.59,7.7
+Doctor Strange,Scott Derrickson,"Action, Adventure, Fantasy",232.64,7.5
+2001: A Space Odyssey,Stanley Kubrick,"Adventure, Sci-Fi",56.95,8.3
+The Bourne Ultimatum,Paul Greengrass,"Action, Mystery, Thriller",227.47,8
+The Hobbit: The Desolation of Smaug,Peter Jackson,"Adventure, Fantasy",258.37,7.8
+World War Z,Marc Forster,"Action, Adventure, Horror",202.36,7
+Edge of Tomorrow,Doug Liman,"Action, Adventure, Sci-Fi",100.21,7.9
+Thor: The Dark World,Alan Taylor,"Action, Adventure, Fantasy",206.36,6.9
+Arrival,Denis Villeneuve,"Drama, Sci-Fi",100.55,7.9
+Thor: Ragnarok,Taika Waititi,"Action, Adventure, Comedy",315.06,7.9
+Now You See Me,Louis Leterrier,"Crime, Mystery, Thriller",117.72,7.3
+Pirates of the Caribbean: At World's End,Gore Verbinski,"Action, Adventure, Fantasy",309.42,7.1
+Transformers,Michael Bay,"Action, Adventure, Sci-Fi",319.25,7
+Kingsman: The Secret Service,Matthew Vaughn,"Action, Adventure, Comedy",128.26,7.7
+The Curious Case of Benjamin Button,David Fincher,"Drama, Fantasy, Romance",127.51,7.8
+"I, Robot",Alex Proyas,"Action, Drama, Sci-Fi",144.8,7.1
+American Psycho,Mary Harron,"Comedy, Crime, Drama",15.07,7.6
+Rise of the Planet of the Apes,Rupert Wyatt,"Action, Drama, Sci-Fi",176.76,7.6
+Juno,Jason Reitman,"Comedy, Drama",143.5,7.4
+Home Alone,Chris Columbus,"Comedy, Family",285.76,7.6
+Troy,Wolfgang Petersen,"Drama, History",133.38,7.3
+Deadpool 2,David Leitch,"Action, Adventure, Comedy",324.59,7.7
+Oblivion,Joseph Kosinski,"Action, Adventure, Sci-Fi",89.02,7
+Source Code,Duncan Jones,"Action, Drama, Mystery",54.71,7.5
+Back to the Future Part II,Robert Zemeckis,"Adventure, Comedy, Sci-Fi",118.5,7.8
+X-Men: The Last Stand,Brett Ratner,"Action, Adventure, Sci-Fi",234.36,6.7
+Spider-Man: Into the Spider-Verse,Bob Persichetti,"Animation, Action, Adventure",190.24,8.4
+Rain Man,Barry Levinson,Drama,178.8,8
+Beauty and the Beast,Gary Trousdale,"Animation, Family, Fantasy",218.97,8
+War of the Worlds,Steven Spielberg,"Adventure, Sci-Fi, Thriller",234.28,6.5
+The Day After Tomorrow,Roland Emmerich,"Action, Adventure, Sci-Fi",186.74,6.4
+Big Fish,Tim Burton,"Adventure, Drama, Fantasy",66.26,8
+The Hunger Games: Mockingjay - Part 1,Francis Lawrence,"Action, Adventure, Sci-Fi",337.14,6.6
+Big Hero 6,Don Hall,"Animation, Action, Adventure",222.53,7.8
+Fantastic Beasts and Where to Find Them,David Yates,"Adventure, Family, Fantasy",234.04,7.3
+A Quiet Place,John Krasinski,"Drama, Horror, Sci-Fi",188.02,7.5
+Dawn of the Planet of the Apes,Matt Reeves,"Action, Adventure, Drama",208.55,7.6
+The Terminal,Steven Spielberg,"Comedy, Drama, Romance",77.87,7.4
+Tangled,Nathan Greno,"Animation, Adventure, Comedy",200.82,7.7
+Gangs of New York,Martin Scorsese,"Crime, Drama",77.81,7.5
+Parasite,Bong Joon Ho,"Comedy, Drama, Thriller",53.37,8.6
+Sherlock Holmes,Guy Ritchie,"Action, Adventure, Mystery",209.03,7.6
+Wonder Woman,Patty Jenkins,"Action, Adventure, Fantasy",412.56,7.4
+Casino Royale,Martin Campbell,"Action, Adventure, Thriller",167.45,8
+Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,"Comedy, Drama",42.34,7.7
+Life of Pi,Ang Lee,"Adventure, Drama, Fantasy",124.99,7.9
+Heat,Michael Mann,"Crime, Drama, Thriller",67.44,8.2
+Jurassic World,Colin Trevorrow,"Action, Adventure, Sci-Fi",652.27,7
+Groundhog Day,Harold Ramis,"Comedy, Fantasy, Romance",70.91,8
+12 Monkeys,Terry Gilliam,"Mystery, Sci-Fi, Thriller",57.14,8
+Guardians of the Galaxy Vol. 2,James Gunn,"Action, Adventure, Comedy",389.81,7.6
+Ant-Man,Peyton Reed,"Action, Adventure, Comedy",180.2,7.3
+Into the Wild,Sean Penn,"Adventure, Biography, Drama",18.35,8.1
+Star Trek,J.J. Abrams,"Action, Adventure, Sci-Fi",257.73,7.9
+Harry Potter and the Deathly Hallows: Part 1,David Yates,"Adventure, Family, Fantasy",295.98,7.7
+The Great Gatsby,Baz Luhrmann,"Drama, Romance",144.84,7.2
+Pirates of the Caribbean: On Stranger Tides,Rob Marshall,"Action, Adventure, Fantasy",241.06,6.6
+Harry Potter and the Half-Blood Prince,David Yates,"Action, Adventure, Family",301.96,7.6
+The Hobbit: The Battle of the Five Armies,Peter Jackson,"Adventure, Fantasy",255.12,7.4
+Ex Machina,Alex Garland,"Drama, Sci-Fi, Thriller",25.44,7.7
+Knives Out,Rian Johnson,"Comedy, Crime, Drama",165.36,7.9
+"Crazy, Stupid, Love.",Glenn Ficarra,"Comedy, Drama, Romance",84.35,7.4
+Mission: Impossible,Brian De Palma,"Action, Adventure, Thriller",180.98,7.2
+Live Free or Die Hard,Len Wiseman,"Action, Thriller",134.53,7.1
+Unbreakable,M. Night Shyamalan,"Drama, Mystery, Sci-Fi",95.01,7.3
+Aquaman,James Wan,"Action, Adventure, Fantasy",335.06,6.9
+Spectre,Sam Mendes,"Action, Adventure, Thriller",200.07,6.8
+Godzilla,Gareth Edwards,"Action, Adventure, Sci-Fi",200.68,6.4
+Alice in Wonderland,Tim Burton,"Adventure, Family, Fantasy",334.19,6.4
+This Is the End,James Franco,Comedy,101.47,6.6
+Transformers: Dark of the Moon,Michael Bay,"Action, Adventure, Sci-Fi",352.39,6.2
+Transformers: Revenge of the Fallen,Michael Bay,"Action, Adventure, Sci-Fi",402.11,6
+Platoon,Oliver Stone,"Drama, War",138.53,8.1
+Scott Pilgrim vs. the World,Edgar Wright,"Action, Comedy, Fantasy",31.49,7.5
+Wreck-It Ralph,Rich Moore,"Animation, Adventure, Comedy",189.42,7.7
+Star Wars: Episode IX - The Rise of Skywalker,J.J. Abrams,"Action, Adventure, Fantasy",515.2,6.6
+The Lost World: Jurassic Park,Steven Spielberg,"Action, Adventure, Sci-Fi",229.09,6.6
+500 Days of Summer,Marc Webb,"Comedy, Drama, Romance",32.39,7.7
+Zodiac,David Fincher,"Crime, Drama, Mystery",33.08,7.7
+Nightcrawler,Dan Gilroy,"Crime, Drama, Thriller",32.38,7.8
+Blade Runner 2049,Denis Villeneuve,"Action, Drama, Mystery",92.05,8
+Casino,Martin Scorsese,"Crime, Drama",42.44,8.2
+X-Men Origins: Wolverine,Gavin Hood,"Action, Sci-Fi",179.88,6.6
+Pacific Rim,Guillermo del Toro,"Action, Adventure, Sci-Fi",101.8,6.9
+Children of Men,Alfonso Cuarón,"Adventure, Drama, Sci-Fi",35.55,7.9
+Hot Fuzz,Edgar Wright,"Action, Comedy, Mystery",23.64,7.8
+The Perks of Being a Wallflower,Stephen Chbosky,"Drama, Romance",17.74,8
+The Hangover Part II,Todd Phillips,Comedy,254.46,6.5
+It,Andy Muschietti,Horror,327.48,7.3
+Star Trek Into Darkness,J.J. Abrams,"Action, Adventure, Sci-Fi",228.78,7.7
+Bohemian Rhapsody,Queen,"Biography, Drama, Music",216.43,8
+Captain Marvel,Anna Boden,"Action, Adventure, Sci-Fi",426.83,6.9
+Argo,Ben Affleck,"Biography, Drama, Thriller",136.03,7.7
+Drive,Nicolas Winding Refn,"Crime, Drama",35.06,7.8
+Frozen,Chris Buck,"Animation, Adventure, Comedy",400.74,7.4
+X-Men,Bryan Singer,"Action, Adventure, Sci-Fi",157.3,7.4
+Ted,Seth MacFarlane,Comedy,218.82,6.9
+Star Wars: Episode VIII - The Last Jedi,Rian Johnson,"Action, Adventure, Fantasy",620.18,7
+Prometheus,Ridley Scott,"Adventure, Mystery, Sci-Fi",126.48,7
+Once Upon a Time... In Hollywood,Quentin Tarantino,"Comedy, Drama",142.5,7.6
+Taken,Pierre Morel,"Action, Crime, Thriller",145,7.8
+Dunkirk,Christopher Nolan,"Action, Drama, History",188.37,7.8
+The Amazing Spider-Man,Marc Webb,"Action, Adventure, Fantasy",262.03,6.9
+Rogue One: A Star Wars Story,Gareth Edwards,"Action, Adventure, Sci-Fi",532.18,7.8
+Harry Potter and the Chamber of Secrets,Chris Columbus,"Adventure, Family, Fantasy",261.99,7.4
+Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,"Adventure, Family, Fantasy",249.36,7.9
+Harry Potter and the Goblet of Fire,Mike Newell,"Adventure, Family, Fantasy",290.01,7.7
+Spider-Man 2,Sam Raimi,"Action, Adventure, Sci-Fi",373.59,7.3
+Saw,James Wan,"Horror, Mystery, Thriller",56,7.6
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Pamela Anderson,Comedy,128.51,7.3
+Tropic Thunder,Ben Stiller,"Action, Comedy, War",110.52,7
+Unforgiven,Clint Eastwood,"Drama, Western",101.16,8.2
+The Cabin in the Woods,Drew Goddard,"Horror, Mystery, Thriller",42.07,7
+28 Days Later...,Danny Boyle,"Drama, Horror, Sci-Fi",45.06,7.6
+Terminator 3: Rise of the Machines,Jonathan Mostow,"Action, Sci-Fi",150.37,6.3
+American Pie,Paul Weitz,Comedy,102.56,7
+Room,Lenny Abrahamson,"Drama, Thriller",14.68,8.1
+The Shape of Water,Guillermo del Toro,"Adventure, Drama, Fantasy",63.86,7.3
+Sicario,Denis Villeneuve,"Action, Crime, Drama",46.89,7.6
+Brave,Mark Andrews,"Animation, Adventure, Comedy",237.28,7.1
+Aladdin,Ron Clements,"Animation, Adventure, Comedy",217.35,8
+Ready Player One,Steven Spielberg,"Action, Adventure, Sci-Fi",137.69,7.4
+Mission: Impossible - Ghost Protocol,Brad Bird,"Action, Adventure, Thriller",209.4,7.4
+The Pursuit of Happyness,Gabriele Muccino,"Biography, Drama",163.57,8
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,Comedy,0.28,8.4
+The Butterfly Effect,Eric Bress,"Drama, Sci-Fi, Thriller",57.94,7.6
+Mr. & Mrs. Smith,Doug Liman,"Action, Comedy, Crime",186.34,6.5
+Indiana Jones and the Temple of Doom,Steven Spielberg,"Action, Adventure",179.87,7.6
+American Hustle,David O. Russell,"Crime, Drama",150.12,7.2
+The Matrix Revolutions,Lana Wachowski,"Action, Sci-Fi",139.31,6.8
+Lucy,Luc Besson,"Action, Sci-Fi, Thriller",126.66,6.4
+Edward Scissorhands,Tim Burton,"Drama, Fantasy, Romance",56.36,7.9
+1917,Sam Mendes,"Drama, Thriller, War",159.23,8.3
+Rear Window,Alfred Hitchcock,"Mystery, Thriller",36.76,8.4
+Baby Driver,Edgar Wright,"Action, Crime, Drama",107.83,7.6
+Hancock,Peter Berg,"Action, Drama, Fantasy",227.95,6.4
+Dallas Buyers Club,Jean-Marc Vallée,"Biography, Drama",27.3,8
+The Conjuring,James Wan,"Horror, Mystery, Thriller",137.4,7.5
+Her,Spike Jonze,"Drama, Romance, Sci-Fi",25.57,8
+John Wick,Chad Stahelski,"Action, Crime, Thriller",43.04,7.4
+Jaws,Steven Spielberg,"Adventure, Thriller",260,8
+"Lock, Stock and Two Smoking Barrels",Guy Ritchie,"Action, Comedy, Crime",3.9,8.2
+Looper,Rian Johnson,"Action, Drama, Sci-Fi",66.49,7.4
+The Devil Wears Prada,David Frankel,"Comedy, Drama",124.74,6.9
+E.T. the Extra-Terrestrial,Steven Spielberg,"Family, Sci-Fi",435.11,7.8
+Moneyball,Bennett Miller,"Biography, Drama, Sport",75.61,7.6
+The Thing,John Carpenter,"Horror, Mystery, Sci-Fi",13.78,8.1
+Cloverfield,Matt Reeves,"Action, Horror, Sci-Fi",80.05,7
+Predator,John McTiernan,"Action, Adventure, Sci-Fi",59.74,7.8
+Bruce Almighty,Tom Shadyac,"Comedy, Fantasy",242.83,6.8
+Cars,John Lasseter,"Animation, Comedy, Family",244.08,7.1
+In Time,Andrew Niccol,"Action, Sci-Fi, Thriller",37.52,6.7
+John Wick: Chapter 2,Chad Stahelski,"Action, Crime, Thriller",92.03,7.5
+The Wizard of Oz,Victor Fleming,"Adventure, Family, Fantasy",2.08,8
+Amadeus,Wolfgang Amadeus Mozart,"Biography, Drama, History",51.97,8.3
+Ice Age,Chris Wedge,"Animation, Adventure, Comedy",176.39,7.5
+Hacksaw Ridge,Desmond T. Doss,"Biography, Drama, History",67.21,8.1
+American Sniper,Clint Eastwood,"Action, Biography, Drama",350.13,7.3
+Little Miss Sunshine,Jonathan Dayton,"Comedy, Drama",59.89,7.8
+"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,"Comedy, Crime, Drama",54.51,8.1
+Zootopia,Byron Howard,"Animation, Adventure, Comedy",341.27,8
+Warrior,Gavin O'Connor,"Action, Drama, Sport",13.66,8.2
+The Incredible Hulk,Louis Leterrier,"Action, Adventure, Sci-Fi",134.52,6.7
+Love Actually,Richard Curtis,"Comedy, Drama, Romance",59.7,7.6
+The Fifth Element,Luc Besson,"Action, Adventure, Sci-Fi",63.54,7.7
+Rush,James Hunt,"Action, Biography, Drama",26.95,8.1
+The Bourne Supremacy,Paul Greengrass,"Action, Mystery, Thriller",176.24,7.7
+Split,M. Night Shyamalan,"Horror, Thriller",138.29,7.3
+Charlie and the Chocolate Factory,Tim Burton,"Adventure, Comedy, Family",206.46,6.6
+The Wolverine,James Mangold,"Action, Sci-Fi",132.56,6.7
+Dead Poets Society,Peter Weir,"Comedy, Drama",95.86,8.1
+Despicable Me 2,Pierre Coffin,"Animation, Adventure, Comedy",368.06,7.3
+The Big Short,Adam McKay,"Biography, Comedy, Drama",70.26,7.8
+Fast & Furious 6,Justin Lin,"Action, Adventure, Thriller",238.68,7
+Monty Python's Life of Brian,Jesus Christ,Comedy,20.05,8.1
+Madagascar,Eric Darnell,"Animation, Adventure, Comedy",193.6,6.9
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Andrew Adamson,"Adventure, Family, Fantasy",291.71,6.9
+Venom,Ruben Fleischer,"Action, Adventure, Sci-Fi",213.52,6.7
+Vertigo,Alfred Hitchcock,"Mystery, Romance, Thriller",3.2,8.3
+Fury,David Ayer,"Action, Drama, War",85.82,7.6
+The Help,Tate Taylor,Drama,169.71,8
+Stand by Me,Rob Reiner,"Adventure, Drama",52.29,8.1
+Black Hawk Down,Ridley Scott,"Drama, History, War",108.64,7.7
+Die Hard with a Vengeance,John McTiernan,"Action, Adventure, Thriller",100.01,7.6
+The Exorcist,William Friedkin,Horror,232.91,8
+Collateral,Michael Mann,"Crime, Drama, Thriller",101.01,7.5
+The Godfather: Part III,Francis Ford Coppola,"Crime, Drama",66.67,7.6
+The Lives of Others,Florian Henckel von Donnersmarck,"Drama, Mystery, Thriller",11.29,8.4
+Easy A,Will Gluck,"Comedy, Drama, Romance",58.4,7
+Furious 7,James Wan,"Action, Adventure, Thriller",353.01,7.1
+Ocean's Twelve,Ocean's Eleven,"Crime, Thriller",125.54,6.5
+Wanted,Timur Bekmambetov,"Action, Crime, Thriller",134.51,6.7
+The Machinist,Brad Anderson,"Drama, Thriller",1.08,7.7
+The Breakfast Club,John Hughes,"Comedy, Drama",45.88,7.8
+Ghostbusters,Ivan Reitman,"Action, Comedy, Fantasy",238.63,7.8
+The Town,Ben Affleck,"Crime, Drama, Thriller",92.19,7.5
+The Illusionist,Neil Burger,"Drama, Fantasy, Mystery",39.87,7.6
+2012,Roland Emmerich,"Action, Adventure, Sci-Fi",166.11,5.8
+Shooter,Antoine Fuqua,"Action, Drama, Thriller",47,7.2
+Spider-Man: Far from Home,Avengers: Endgame,"Action, Adventure, Sci-Fi",390.53,7.5
+Scary Movie,Keenen Ivory Wayans,Comedy,157.02,6.2
+Gone with the Wind,Victor Fleming,"Drama, History, Romance",198.68,8.1
+Angels & Demons,Ron Howard,"Action, Mystery, Thriller",133.38,6.7
+Grease,Randal Kleiser,"Musical, Romance",188.76,7.2
+Dumb and Dumber,Peter Farrelly,Comedy,127.18,7.3
+Passengers,Morten Tyldum,"Drama, Romance, Sci-Fi",100.01,7
+Fast Five,Justin Lin,"Action, Adventure, Crime",209.84,7.3
+Knocked Up,Judd Apatow,"Comedy, Romance",148.73,6.9
+Face/Off,John Woo,"Action, Crime, Sci-Fi",112.23,7.2
+The Fast and the Furious,Rob Cohen,"Action, Crime, Thriller",144.53,6.8
+127 Hours,Danny Boyle,"Biography, Drama",18.34,7.5
+The Game,David Fincher,"Drama, Mystery, Thriller",48.32,7.8
+The Mask,Chuck Russell,"Action, Comedy, Crime",119.94,6.9
+3 Idiots,Rajkumar Hirani,"Comedy, Drama",6.53,8.4
+Princess Mononoke,Hayao Miyazaki,"Animation, Action, Adventure",2.38,8.4
+22 Jump Street,Phil Lord,"Action, Comedy, Crime",191.72,7
+The Fault in Our Stars,Josh Boone,"Drama, Romance",124.87,7.7
+Maleficent,Robert Stromberg,"Action, Adventure, Family",241.41,7
+Sweeney Todd: The Demon Barber of Fleet Street,Tim Burton,"Drama, Horror, Musical",52.9,7.3
+Cloud Atlas,Tom Tykwer,"Action, Drama, Mystery",27.11,7.4
+Men in Black II,Barry Sonnenfeld,"Action, Adventure, Comedy",190.42,6.2
+Jumanji,Joe Johnston,"Adventure, Comedy, Family",100.48,7
+Burn After Reading,Ethan Coen,"Comedy, Crime, Drama",60.36,7
+Jojo Rabbit,Taika Waititi,"Comedy, Drama, War",0.35,7.9
+Jack Reacher,Christopher McQuarrie,"Action, Thriller",80.07,7
+Les Misérables,Tom Hooper,"Drama, History, Musical",148.81,7.6
+Constantine,Francis Lawrence,"Action, Fantasy, Horror",75.98,7
+The Simpsons Movie,David Silverman,"Animation, Adventure, Comedy",183.14,7.3
+About Time,Richard Curtis,"Comedy, Drama, Fantasy",15.32,7.8
+The Interview,Jong-Un Kim,"Action, Adventure, Comedy",6.11,6.5
+How to Train Your Dragon 2,Dean DeBlois,"Animation, Action, Adventure",177,7.8
+Click,Frank Coraci,"Comedy, Drama, Fantasy",137.36,6.4
+Hellboy,Guillermo del Toro,"Action, Fantasy, Horror",59.62,6.8
+Eyes Wide Shut,Stanley Kubrick,"Drama, Mystery, Thriller",55.69,7.4
+Hugo,Martin Scorsese,"Drama, Family, Fantasy",73.86,7.5
+National Treasure,Jon Turteltaub,"Action, Adventure, Mystery",173.01,6.9
+Ford v Ferrari,Carroll Shelby,"Action, Biography, Drama",117.62,8.1
+Moon,Duncan Jones,"Drama, Mystery, Sci-Fi",5.01,7.9
+Men in Black 3,Barry Sonnenfeld,"Action, Adventure, Comedy",179.02,6.8
+The Aviator,Howard Hughes,"Biography, Drama",102.61,7.5
+Boyhood,Richard Linklater,Drama,25.38,7.9
+Hotel Rwanda,Paul Rusesabagina,"Biography, Drama, History",23.53,8.1
+The Devil's Advocate,Taylor Hackford,"Drama, Mystery, Thriller",60.98,7.5
+Wedding Crashers,David Dobkin,"Comedy, Romance",209.22,6.9
+Sleepy Hollow,Tim Burton,"Fantasy, Horror, Mystery",101.07,7.3
+Downfall,Traudl Junge,"Biography, Drama, History",5.51,8.2
+The Irishman,Jimmy Hoffa,"Biography, Crime, Drama",7,7.8
+Mission: Impossible III,J.J. Abrams,"Action, Adventure, Thriller",134.03,6.9
+Speed,Jan de Bont,"Action, Adventure, Thriller",121.25,7.2
+Anchorman: The Legend of Ron Burgundy,Adam McKay,Comedy,85.29,7.2
+Man on Fire,Tony Scott,"Action, Crime, Drama",77.91,7.7
+50 First Dates,Peter Segal,"Comedy, Drama, Romance",120.91,6.8
+Flight,Robert Zemeckis,"Drama, Thriller",93.77,7.3
+Tenet,Christopher Nolan,"Action, Sci-Fi, Thriller",53.8,7.5
+Alita: Battle Angel,Robert Rodriguez,"Action, Adventure, Sci-Fi",85.71,7.3
+The Descendants,Alexander Payne,"Comedy, Drama",82.58,7.3
+Bad Boys II,Michael Bay,"Action, Comedy, Crime",138.61,6.6
+The Twilight Saga: Breaking Dawn - Part 2,Bill Condon,"Adventure, Drama, Fantasy",292.3,5.5
+Elf,Jon Favreau,"Adventure, Comedy, Family",173.4,7
+Aladdin,Guy Ritchie,"Adventure, Family, Fantasy",355.56,6.9
+The Bucket List,Rob Reiner,"Adventure, Comedy, Drama",93.47,7.4
+Sucker Punch,Zack Snyder,"Action, Adventure, Fantasy",36.39,6
+The Artist,Michel Hazanavicius,"Comedy, Drama, Romance",44.67,7.9
+Final Destination,James Wong,"Horror, Thriller",53.33,6.7
+The Reader,Stephen Daldry,"Drama, Romance",34.19,7.6
+Spy,Paul Feig,"Action, Comedy",110.83,7
+Megamind,Tom McGrath,"Animation, Action, Comedy",148.42,7.2
+Chappie,Neill Blomkamp,"Action, Crime, Drama",31.57,6.8
+21,Robert Luketic,"Crime, Drama, History",81.16,6.8
+Alien: Resurrection,Jean-Pierre Jeunet,"Action, Horror, Sci-Fi",47.75,6.2
+Dodgeball: A True Underdog Story,Rawson Marshall Thurber,"Comedy, Sport",114.33,6.7
+War for the Planet of the Apes,Matt Reeves,"Action, Adventure, Drama",146.88,7.4
+A.I. Artificial Intelligence,Steven Spielberg,"Drama, Sci-Fi",78.62,7.2
+Magnolia,Paul Thomas Anderson,Drama,22.46,8
+RED,Robert Schwentke,"Action, Comedy, Crime",90.38,7
+3:10 to Yuma,James Mangold,"Action, Crime, Drama",53.61,7.7
+Taken 2,Olivier Megaton,"Action, Thriller",139.85,6.3
+Babel,Alejandro G. Iñárritu,Drama,34.3,7.4
+Bridge of Spies,Steven Spielberg,"Drama, History, Thriller",72.31,7.6
+The Wrestler,Darren Aronofsky,"Drama, Sport",26.24,7.9
+The Hunger Games: Mockingjay - Part 2,Francis Lawrence,"Action, Adventure, Sci-Fi",281.72,6.6
+"O Brother, Where Art Thou?",Joel Coen,"Adventure, Comedy, Crime",45.51,7.7
+Scream,Wes Craven,"Horror, Mystery",103.05,7.3
+From Dusk Till Dawn,Robert Rodriguez,"Action, Crime, Horror",25.75,7.2
+Snow White and the Huntsman,Rupert Sanders,"Action, Adventure, Drama",155.33,6.1
+Zero Dark Thirty,Osama bin Laden,"Drama, History, Thriller",95.72,7.4
+Law Abiding Citizen,F. Gary Gray,"Action, Crime, Drama",73.34,7.4
+Prince of Persia: The Sands of Time,Mike Newell,"Action, Adventure, Fantasy",90.76,6.6
+Apollo 13,Ron Howard,"Adventure, Drama, History",173.84,7.6
+School of Rock,Richard Linklater,"Comedy, Music",81.26,7.1
+Superman Returns,Bryan Singer,"Action, Sci-Fi",200.08,6
+Clash of the Titans,Louis Leterrier,"Action, Adventure, Fantasy",163.21,5.8
+Starship Troopers,Paul Verhoeven,"Action, Adventure, Sci-Fi",54.81,7.2
+The Village,M. Night Shyamalan,"Drama, Mystery, Thriller",114.2,6.5
+Noah,Darren Aronofsky,"Action, Adventure, Drama",101.2,5.7
+The Greatest Showman,Michael Gracey,"Biography, Drama, Musical",174.34,7.6
+Office Space,Mike Judge,Comedy,10.82,7.7
+Finding Dory,Andrew Stanton,"Animation, Adventure, Comedy",486.3,7.3
+Vicky Cristina Barcelona,Woody Allen,"Comedy, Drama, Romance",23.22,7.1
+The Sting,George Roy Hill,"Comedy, Crime, Drama",159.6,8.3
+Dances with Wolves,Kevin Costner,"Adventure, Drama, Western",184.21,8
+Warcraft,Duncan Jones,"Action, Adventure, Fantasy",47.37,6.8
+Nocturnal Animals,Tom Ford,"Drama, Thriller",10.64,7.5
+Seven Psychopaths,Martin McDonagh,"Comedy, Crime",15.02,7.2
+Bad Boys,Michael Bay,"Action, Comedy, Crime",65.81,6.9
+Blow,George Jung,"Biography, Crime, Drama",52.99,7.6
+Sully,Tom Hanks,"Biography, Drama",125.07,7.4
+Mission: Impossible - Rogue Nation,Christopher McQuarrie,"Action, Adventure, Thriller",195.04,7.4
+Terminator Salvation,McG,"Action, Sci-Fi",125.32,6.5
+The Italian Job,F. Gary Gray,"Action, Crime, Thriller",106.13,7
+Inside Man,Spike Lee,"Crime, Drama, Mystery",88.51,7.6
+The Fighter,Micky Ward,"Biography, Drama, Sport",93.62,7.8
+Friends with Benefits,Will Gluck,"Comedy, Romance",55.8,6.5
+A Star Is Born,Bradley Cooper,"Drama, Music, Romance",215.29,7.6
+Batman,Tim Burton,"Action, Adventure",251.19,7.5
+Howl's Moving Castle,Hayao Miyazaki,"Animation, Adventure, Family",4.71,8.2
+The Others,Alejandro Amenábar,"Horror, Mystery, Thriller",96.52,7.6
+Die Hard 2,Renny Harlin,"Action, Thriller",117.54,7.2
+Super 8,J.J. Abrams,"Mystery, Sci-Fi, Thriller",127,7
+Mean Girls,Mark Waters,Comedy,86.06,7
+Signs,M. Night Shyamalan,"Drama, Mystery, Sci-Fi",227.97,6.7
+Yes Man,Peyton Reed,"Comedy, Romance",97.69,6.8
+The Equalizer,Antoine Fuqua,"Action, Crime, Thriller",101.53,7.2
+Once Upon a Time in the West,Sergio Leone,Western,5.32,8.5
+Total Recall,Paul Verhoeven,"Action, Sci-Fi, Thriller",119.39,7.5
+The Mummy Returns,Stephen Sommers,"Action, Adventure, Fantasy",202.02,6.4
+The Nightmare Before Christmas,Henry Selick,"Animation, Family, Fantasy",75.08,8
+10 Things I Hate About You,Gil Junger,"Comedy, Drama, Romance",38.18,7.3
+North by Northwest,Alfred Hitchcock,"Adventure, Mystery, Thriller",13.28,8.3
+The Island,Michael Bay,"Action, Sci-Fi, Thriller",35.82,6.8
+Lucky Number Slevin,Paul McGuigan,"Crime, Drama, Thriller",22.49,7.7
+Real Steel,Shawn Levy,"Action, Drama, Sci-Fi",85.47,7.1
+Fifty Shades of Grey,Sam Taylor-Johnson,"Drama, Romance, Thriller",166.17,4.1
+Top Gun,Tony Scott,"Action, Drama",179.8,6.9
+Transformers: Age of Extinction,Michael Bay,"Action, Adventure, Sci-Fi",245.44,5.6
+The Proposal,Anne Fletcher,"Comedy, Drama, Romance",163.96,6.7
+Solo: A Star Wars Story,Ron Howard,"Action, Adventure, Sci-Fi",213.77,6.9
+Jurassic Park III,Joe Johnston,"Action, Adventure, Sci-Fi",181.17,5.9
+Chinatown,Roman Polanski,"Drama, Mystery, Thriller",8.49,8.1
+Hitch,Andy Tennant,"Comedy, Romance",179.5,6.6
+Salt,Phillip Noyce,"Action, Thriller",118.31,6.4
+Kick-Ass 2,Jeff Wadlow,"Action, Comedy, Crime",28.8,6.5
+Snowpiercer,Bong Joon Ho,"Action, Drama, Sci-Fi",4.56,7.1
+The Expendables,Sylvester Stallone,"Action, Adventure, Thriller",103.07,6.5
+Monsters University,Dan Scanlon,"Animation, Adventure, Comedy",268.49,7.3
+Brokeback Mountain,Ang Lee,"Drama, Romance",83.04,7.7
+Mulholland Dr.,David Lynch,"Drama, Mystery, Thriller",7.22,7.9
+The Lego Movie,Christopher Miller,"Animation, Action, Adventure",257.76,7.7
+Jumanji: Welcome to the Jungle,Jake Kasdan,"Action, Adventure, Comedy",404.52,6.9
+Due Date,Todd Phillips,"Comedy, Drama",100.54,6.5
+Raging Bull,Jake LaMotta,"Biography, Drama, Sport",23.38,8.2
+Ferris Bueller's Day Off,John Hughes,Comedy,70.14,7.8
+Ocean's Thirteen,Steven Soderbergh,"Action, Crime, Thriller",117.15,6.9
+The Ring,Gore Verbinski,"Horror, Mystery",129.13,7.1
+Moonrise Kingdom,Wes Anderson,"Comedy, Drama, Romance",45.51,7.8
+Up in the Air,Jason Reitman,"Comedy, Drama, Romance",83.82,7.4
+Ant-Man and the Wasp,Peyton Reed,"Action, Adventure, Comedy",216.65,7
+Jackie Brown,Quentin Tarantino,"Crime, Drama, Thriller",39.67,7.5
+Star Trek Beyond,Justin Lin,"Action, Adventure, Sci-Fi",158.85,7.1
+Grown Ups,Dennis Dugan,Comedy,162,5.9
+Don Jon,Joseph Gordon-Levitt,"Comedy, Drama, Romance",24.48,6.5
+The Twilight Saga: Eclipse,David Slade,"Action, Adventure, Drama",300.53,5
+Valkyrie,Adolf Hitler,"Drama, History, Thriller",83.08,7.1
+End of Watch,David Ayer,"Action, Crime, Drama",41,7.6
+Lawless,John Hillcoat,"Crime, Drama",37.4,7.3
+The Fountain,Darren Aronofsky,"Drama, Mystery, Romance",10.14,7.2
+Eastern Promises,David Cronenberg,"Action, Crime, Drama",17.11,7.6
+Identity,James Mangold,"Mystery, Thriller",52.16,7.3
+First Blood,Ted Kotcheff,"Action, Adventure",47.21,7.7
+BlacKkKlansman,Ron Stallworth,"Biography, Comedy, Crime",49.28,7.5
+Neighbors,Nicholas Stoller,Comedy,150.16,6.3
+Seven Pounds,Gabriele Muccino,Drama,69.95,7.6
+The Hunt,Thomas Vinterberg,Drama,0.69,8.3
+Jumper,Doug Liman,"Action, Adventure, Sci-Fi",80.17,6.1
+The Bourne Legacy,Tony Gilroy,"Action, Adventure, Thriller",113.2,6.6
+The Transporter,Louis Leterrier,"Action, Crime, Thriller",25.3,6.8
+The Nice Guys,Shane Black,"Action, Comedy, Crime",36.26,7.4
+Contagion,Steven Soderbergh,"Drama, Thriller",75.66,6.7
+The Untouchables,Eliot Ness,"Crime, Drama, Thriller",76.27,7.9
+Boogie Nights,Paul Thomas Anderson,Drama,26.4,7.9
+The Grey,Joe Carnahan,"Action, Adventure, Drama",51.58,6.8
+American Pie 2,J.B. Rogers,Comedy,145.1,6.4
+Total Recall,Len Wiseman,"Action, Adventure, Sci-Fi",58.88,6.3
+Rush Hour,Brett Ratner,"Action, Comedy, Crime",141.15,7
+Changeling,Clint Eastwood,"Biography, Crime, Drama",35.74,7.7
+Chronicle,Josh Trank,"Drama, Sci-Fi, Thriller",64.58,7
+GoldenEye,Martin Campbell,"Action, Adventure, Thriller",106.6,7.2
+The Little Mermaid,Ron Clements,"Animation, Family, Fantasy",111.54,7.6
+My Neighbor Totoro,Hayao Miyazaki,"Animation, Family, Fantasy",1.11,8.2
+Interview with the Vampire: The Vampire Chronicles,Neil Jordan,"Drama, Horror",105.26,7.5
+The Blind Side,John Lee Hancock,"Biography, Drama, Sport",255.96,7.6
+Mission: Impossible - Fallout,Christopher McQuarrie,"Action, Adventure, Thriller",220.16,7.7
+The Book of Eli,Albert Hughes,"Action, Adventure, Drama",94.84,6.9
+John Carter,Andrew Stanton,"Action, Adventure, Sci-Fi",73.08,6.6
+The Patriot,Roland Emmerich,"Action, Drama, History",113.33,7.2
+Seven Samurai,Akira Kurosawa,"Action, Adventure, Drama",0.27,8.6
+Pineapple Express,David Gordon Green,"Action, Comedy, Crime",87.34,6.9
+Night at the Museum,Shawn Levy,"Adventure, Comedy, Family",250.86,6.4
+Mission: Impossible II,John Woo,"Action, Adventure, Thriller",215.41,6.1
+50/50,Jonathan Levine,"Comedy, Drama, Romance",35.01,7.6
+Once Upon a Time in America,Sergio Leone,"Crime, Drama",5.32,8.4
+The Rock,Michael Bay,"Action, Adventure, Thriller",134.07,7.4
+TRON: Legacy,Joseph Kosinski,"Action, Adventure, Sci-Fi",172.06,6.8
+Being John Malkovich,John Malkovich,"Comedy, Drama, Fantasy",22.86,7.7
+True Grit,Ethan Coen,"Drama, Western",171.24,7.6
+The Deer Hunter,Michael Cimino,"Drama, War",48.98,8.1
+Home Alone 2: Lost in New York,Chris Columbus,"Adventure, Comedy, Crime",173.59,6.8
+Pearl Harbor,Michael Bay,"Action, Drama, History",198.54,6.2
+Fantastic Four,Tim Story,"Action, Adventure, Fantasy",154.7,5.7
+Meet the Parents,Jay Roach,"Comedy, Romance",166.24,7
+Equilibrium,Kurt Wimmer,"Action, Drama, Sci-Fi",1.2,7.4
+Maze Runner: The Scorch Trials,Wes Ball,"Action, Adventure, Sci-Fi",81.7,6.3
+The Ugly Truth,Robert Luketic,"Comedy, Romance",88.92,6.4
+Death Race,Paul W.S. Anderson,"Action, Sci-Fi, Thriller",36.32,6.4
+Kiss Kiss Bang Bang,Shane Black,"Comedy, Crime, Mystery",4.24,7.5
+Ender's Game,Gavin Hood,"Action, Adventure, Fantasy",61.74,6.6
+The Beach,Danny Boyle,"Adventure, Drama, Romance",39.79,6.7
+The Road,John Hillcoat,Drama,0.06,7.2
+Ghost Rider,Mark Steven Johnson,"Action, Fantasy, Thriller",115.8,5.3
+The Intern,Nancy Meyers,"Comedy, Drama",75.76,7.1
+Sinister,Scott Derrickson,"Horror, Mystery, Thriller",48.09,6.8
+The Lobster,Yorgos Lanthimos,"Comedy, Drama, Romance",8.7,7.2
+"Me, Myself & Irene",Bobby Farrelly,Comedy,90.57,6.6
+Just Go with It,Dennis Dugan,"Comedy, Romance",103.03,6.4
+A Separation,Asghar Farhadi,Drama,7.1,8.3
+Austin Powers: International Man of Mystery,Jay Roach,"Adventure, Comedy",53.88,7
+The Lone Ranger,Gore Verbinski,"Action, Adventure, Western",89.3,6.4
+Tarzan,Chris Buck,"Animation, Adventure, Family",171.09,7.3
+Ghostbusters,Paul Feig,"Action, Comedy, Fantasy",128.34,6.6
+Rocky Balboa,Sylvester Stallone,"Action, Drama, Sport",70.27,7.1
+The Great Dictator,Charles Chaplin,"Comedy, Drama, War",0.29,8.4
+The Bridge on the River Kwai,David Lean,"Adventure, Drama, War",44.91,8.1
+Get Smart,Peter Segal,"Action, Adventure, Comedy",130.32,6.5
+Master and Commander: The Far Side of the World,Peter Weir,"Action, Adventure, Drama",93.93,7.4
+Closer,Mike Nichols,"Drama, Romance",33.99,7.2
+Hidden Figures,Theodore Melfi,"Biography, Drama, History",169.61,7.8
+Anger Management,Peter Segal,Comedy,135.65,6.3
+The Purge,James DeMonaco,"Horror, Sci-Fi, Thriller",64.47,5.7
+American Reunion,Jon Hurwitz,Comedy,57.01,6.7
+Your Name.,Makoto Shinkai,"Animation, Drama, Fantasy",5.02,8.4
+Ghost in the Shell,Rupert Sanders,"Action, Crime, Drama",40.56,6.3
+When Harry Met Sally...,Rob Reiner,"Comedy, Drama, Romance",92.82,7.6
+You've Got Mail,Nora Ephron,"Comedy, Drama, Romance",115.82,6.7
+A Series of Unfortunate Events,Brad Silberling,"Adventure, Comedy, Family",118.63,6.8
+EuroTrip,Jeff Schaffer,Comedy,17.72,6.6
+Traffic,Steven Soderbergh,"Crime, Drama, Thriller",124.12,7.6
+Austin Powers in Goldmember,Jay Roach,"Action, Adventure, Comedy",213.31,6.2
+The Happening,M. Night Shyamalan,"Drama, Mystery, Sci-Fi",64.51,5
+No Strings Attached,Ivan Reitman,"Comedy, Romance",70.66,6.2
+The Chronicles of Riddick,Vin Diesel,"Action, Adventure, Sci-Fi",57.76,6.7
+Shakespeare in Love,William Shakespeare,"Comedy, Drama, History",100.32,7.1
+San Andreas,Brad Peyton,"Action, Adventure, Thriller",155.19,6.1
+Body of Lies,Ridley Scott,"Action, Drama, Thriller",39.39,7.1
+Silent Hill,Christophe Gans,"Action, Adventure, Fantasy",46.98,6.5
+Cube,Vincenzo Natali,"Drama, Mystery, Sci-Fi",0.5,7.2
+How to Lose a Guy in 10 Days,Donald Petrie,"Comedy, Romance",105.81,6.4
+Minions,Kyle Balda,"Animation, Adventure, Comedy",336.05,6.4
+Munich,Steven Spielberg,"Action, Drama, History",47.4,7.5
+Thank You for Smoking,Jason Reitman,"Comedy, Drama",24.79,7.6
+Predators,Nimród Antal,"Action, Adventure, Sci-Fi",52,6.4
+Me Before You,Thea Sharrock,"Drama, Romance",56.25,7.4
+It Follows,David Robert Mitchell,"Horror, Mystery, Thriller",14.67,6.8
+Romeo + Juliet,Baz Luhrmann,"Drama, Romance",46.35,6.7
+It Chapter Two,Andy Muschietti,"Drama, Fantasy, Horror",211.59,6.5
