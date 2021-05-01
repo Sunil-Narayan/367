@@ -26,7 +26,8 @@ There are several stakeholders in this problem. The people reciving the healthca
 It should be noted that healthcare outcomes are the products of complex sets of factors and drawing a 1-to-1 corrilation between spending and outcome is inherently oversimplifiying that complexity. Care must be taken not to extrapolate sweeping conclusions from this analysis for the purpose of changing policy without taking these other factors into account. [Policy can have a great impact](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.411.6359&rep=rep1&type=pdf) on health outcomes, and inaccurately assessing the efficency of healthcare systems could lead to countries making sub-optimal plans on how to improve their healthcare infrastructure. Making mistakes in such a field costs people their good health or even their lives, thus care must be taken to ensure that hte results accurately reflect the data.
 
 ### Data:
-(Note that none of these are links to the files themselves, all of these pages contain links to the files. For the CSV/XLSXs themselves, check the github)
+
+(Note that none of these are links to the files themselves, all of these pages contain links to the files. For the raw CSV/XLSXs themselves, check [the github](https://github.com/Sunil-Narayan/367/tree/main/Assignments/Final))
 
 [World Bank GDP Per Capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?most_recent_value_desc=true) 
 This data will be imported as a csv to the project. It shows the current (non-PPP adjusted) GDP per capita for each country.
