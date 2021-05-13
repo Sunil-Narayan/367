@@ -1,0 +1,586 @@
+Country,Bounds,Child Mortality Rate
+Afghanistan,Lower,13.302
+Afghanistan,Median,17.1323
+Afghanistan,Upper,21.5238
+Albania,Lower,1.0124
+Albania,Median,1.0492
+Albania,Upper,1.0894
+Algeria,Lower,3.5099
+Algeria,Median,3.5881
+Algeria,Upper,3.6663
+Andorra,Lower,0.0551
+Andorra,Median,0.1692
+Andorra,Upper,0.545
+Angola,Lower,11.1813
+Angola,Median,30.3352
+Angola,Upper,61.7264
+Antigua and Barbuda,Lower,0.73
+Antigua and Barbuda,Median,0.9343
+Antigua and Barbuda,Upper,1.1905
+Argentina,Lower,1.1836
+Argentina,Median,1.2055
+Argentina,Upper,1.2267
+Armenia,Lower,1.1922
+Armenia,Median,1.4803
+Armenia,Upper,1.8128
+Australia,Lower,0.5796
+Australia,Median,0.593
+Australia,Upper,0.6065
+Austria,Lower,0.6222
+Austria,Median,0.6546
+Austria,Upper,0.6881
+Azerbaijan,Lower,1.9229
+Azerbaijan,Median,2.7897
+Azerbaijan,Upper,4.3239
+Bahamas,Lower,1.6605
+Bahamas,Median,1.9348
+Bahamas,Upper,2.2494
+Bahrain,Lower,0.9498
+Bahrain,Median,1.0816
+Bahrain,Upper,1.2324
+Bangladesh,Lower,6.0469
+Bangladesh,Median,6.5835
+Bangladesh,Upper,7.1948
+Barbados,Lower,0.8006
+Barbados,Median,1.0117
+Barbados,Upper,1.275
+Belarus,Lower,0.9113
+Belarus,Median,0.9449
+Belarus,Upper,0.9808
+Belgium,Lower,0.7026
+Belgium,Median,0.7434
+Belgium,Upper,0.7865
+Belize,Lower,1.8922
+Belize,Median,2.0496
+Belize,Upper,2.2165
+Benin,Lower,31.7666
+Benin,Median,36.69
+Benin,Upper,42.1051
+Bhutan,Lower,3.391
+Bhutan,Median,5.5642
+Bhutan,Upper,8.995
+Bolivia (Plurinational State of),Lower,4.4641
+Bolivia (Plurinational State of),Median,5.6748
+Bolivia (Plurinational State of),Upper,7.2997
+Bosnia and Herzegovina,Lower,0.7725
+Bosnia and Herzegovina,Median,0.8371
+Bosnia and Herzegovina,Upper,0.9071
+Botswana,Lower,3.7857
+Botswana,Median,10.9539
+Botswana,Upper,24.6732
+Brazil,Lower,1.6455
+Brazil,Median,1.7687
+Brazil,Upper,1.9019
+Brunei Darussalam,Lower,1.7194
+Brunei Darussalam,Median,1.8493
+Brunei Darussalam,Upper,1.9907
+Bulgaria,Lower,1.2128
+Bulgaria,Median,1.2612
+Bulgaria,Upper,1.3091
+Burkina Faso,Lower,29.581
+Burkina Faso,Median,41.4261
+Burkina Faso,Upper,57.526
+Burundi,Lower,13.1368
+Burundi,Median,20.8118
+Burundi,Upper,31.4994
+Cabo Verde,Lower,2.3324
+Cabo Verde,Median,2.6175
+Cabo Verde,Upper,2.9527
+Cambodia,Lower,2.6845
+Cambodia,Median,4.3432
+Cambodia,Upper,7.8981
+Cameroon,Lower,26.0398
+Cameroon,Median,30.8065
+Cameroon,Upper,36.2392
+Canada,Lower,0.6495
+Canada,Median,0.6641
+Canada,Upper,0.6787
+Central African Republic,Lower,17.7399
+Central African Republic,Median,37.4564
+Central African Republic,Upper,78.4952
+Chad,Lower,41.8049
+Chad,Median,55.3469
+Chad,Upper,71.5512
+Chile,Lower,1.0396
+Chile,Median,1.118
+Chile,Upper,1.2026
+China,Lower,1.338
+China,Median,1.4259
+China,Upper,1.5167
+Colombia,Lower,1.6478
+Colombia,Median,2.1391
+Colombia,Upper,2.8689
+Comoros,Lower,6.8521
+Comoros,Median,17.8693
+Comoros,Upper,46.6374
+Congo,Lower,8.2583
+Congo,Median,15.5408
+Congo,Upper,27.8782
+Cook Islands,Lower,0.8024
+Cook Islands,Median,1.2202
+Cook Islands,Upper,1.8395
+Costa Rica,Lower,1.3178
+Costa Rica,Median,1.3561
+Costa Rica,Upper,1.3958
+Cote d'Ivoire,Lower,20.2031
+Cote d'Ivoire,Median,25.7402
+Cote d'Ivoire,Upper,32.2883
+Croatia,Lower,0.6991
+Croatia,Median,0.7358
+Croatia,Upper,0.7743
+Cuba,Lower,1.2199
+Cuba,Median,1.3662
+Cuba,Upper,1.5343
+Cyprus,Lower,0.4345
+Cyprus,Median,0.5116
+Cyprus,Upper,0.6082
+Czechia,Lower,0.6131
+Czechia,Median,0.6376
+Czechia,Upper,0.6646
+Democratic People's Republic of Korea,Lower,3.8758
+Democratic People's Republic of Korea,Median,4.9656
+Democratic People's Republic of Korea,Upper,6.3852
+Democratic Republic of the Congo,Lower,13.1034
+Democratic Republic of the Congo,Median,23.8605
+Democratic Republic of the Congo,Upper,40.9023
+Denmark,Lower,0.5594
+Denmark,Median,0.586
+Denmark,Upper,0.6146
+Djibouti,Lower,5.7705
+Djibouti,Median,11.1169
+Djibouti,Upper,20.5295
+Dominica,Lower,3.7762
+Dominica,Median,4.2674
+Dominica,Upper,4.8476
+Dominican Republic,Lower,3.5532
+Dominican Republic,Median,5.2326
+Dominican Republic,Upper,7.9697
+Ecuador,Lower,2.0132
+Ecuador,Median,2.0833
+Ecuador,Upper,2.1565
+Egypt,Lower,2.5191
+Egypt,Median,3.4319
+Egypt,Upper,4.9693
+El Salvador,Lower,1.4809
+El Salvador,Median,2.0808
+El Salvador,Upper,3.1602
+Equatorial Guinea,Lower,14.1622
+Equatorial Guinea,Median,26.4234
+Equatorial Guinea,Upper,44.9609
+Eritrea,Lower,6.6204
+Eritrea,Median,12.1229
+Eritrea,Upper,21.8485
+Estonia,Lower,0.5858
+Estonia,Median,0.6437
+Estonia,Upper,0.7071
+Eswatini,Lower,10.0356
+Eswatini,Median,15.5789
+Eswatini,Upper,23.7801
+Ethiopia,Lower,15.029
+Ethiopia,Median,18.4117
+Ethiopia,Upper,22.4056
+Fiji,Lower,3.5852
+Fiji,Median,3.8999
+Fiji,Upper,4.2421
+Finland,Lower,0.4245
+Finland,Median,0.4491
+Finland,Upper,0.4752
+France,Lower,0.6462
+France,Median,0.6602
+France,Upper,0.674
+Gabon,Lower,7.424
+Gabon,Median,13.119
+Gabon,Upper,22.4147
+Gambia,Lower,15.4858
+Gambia,Median,19.8157
+Gambia,Upper,24.7908
+Georgia,Lower,1.0613
+Georgia,Median,1.1355
+Georgia,Upper,1.2142
+Germany,Lower,0.61
+Germany,Median,0.6217
+Germany,Upper,0.6334
+Ghana,Lower,12.3942
+Ghana,Median,15.3915
+Ghana,Upper,18.723
+Greece,Lower,0.5027
+Greece,Median,0.5249
+Greece,Upper,0.549
+Grenada,Lower,1.7319
+Grenada,Median,1.9756
+Grenada,Upper,2.2449
+Guatemala,Lower,3.5188
+Guatemala,Median,4.4589
+Guatemala,Upper,5.6982
+Guinea,Lower,34.0449
+Guinea,Median,40.5251
+Guinea,Upper,48.3074
+Guinea-Bissau,Lower,18.9747
+Guinea-Bissau,Median,31.7946
+Guinea-Bissau,Upper,48.9235
+Guyana,Lower,3.2908
+Guyana,Median,5.6562
+Guyana,Upper,10.1487
+Haiti,Lower,13.2524
+Haiti,Median,17.479
+Haiti,Upper,23.9589
+Honduras,Lower,1.9299
+Honduras,Median,2.7076
+Honduras,Upper,3.9778
+Hungary,Lower,0.7641
+Hungary,Median,0.7971
+Hungary,Upper,0.8318
+Iceland,Lower,0.3803
+Iceland,Median,0.4589
+Iceland,Upper,0.5554
+India,Lower,7.3396
+India,Median,8.1089
+India,Upper,8.9326
+Indonesia,Lower,3.652
+Indonesia,Median,4.3394
+Indonesia,Upper,5.2201
+Iran (Islamic Republic of),Lower,1.5218
+Iran (Islamic Republic of),Median,2.1919
+Iran (Islamic Republic of),Upper,3.4338
+Iraq,Lower,3.6196
+Iraq,Median,4.772
+Iraq,Upper,6.2994
+Ireland,Lower,0.4818
+Ireland,Median,0.5104
+Ireland,Upper,0.5405
+Israel,Lower,0.7233
+Israel,Median,0.7456
+Israel,Upper,0.7685
+Italy,Lower,0.4846
+Italy,Median,0.4957
+Italy,Upper,0.5071
+Jamaica,Lower,1.396
+Jamaica,Median,2.1458
+Jamaica,Upper,3.8344
+Japan,Lower,0.7081
+Japan,Median,0.722
+Japan,Upper,0.7363
+Jordan,Lower,1.9415
+Jordan,Median,2.4379
+Jordan,Upper,3.2033
+Kazakhstan,Lower,1.1875
+Kazakhstan,Median,1.2135
+Kazakhstan,Upper,1.2394
+Kenya,Lower,10.2178
+Kenya,Median,13.8015
+Kenya,Upper,19.1768
+Kiribati,Lower,6.5849
+Kiribati,Median,12.8575
+Kiribati,Upper,24.3626
+Kuwait,Lower,1.188
+Kuwait,Median,1.2318
+Kuwait,Upper,1.2766
+Kyrgyzstan,Lower,2.2541
+Kyrgyzstan,Median,2.3405
+Kyrgyzstan,Upper,2.4266
+Lao People's Democratic Republic,Lower,8.1353
+Lao People's Democratic Republic,Median,11.3612
+Lao People's Democratic Republic,Upper,15.3596
+Latvia,Lower,0.6213
+Latvia,Median,0.6799
+Latvia,Upper,0.7409
+Lebanon,Lower,0.6273
+Lebanon,Median,1.1586
+Lebanon,Upper,2.0008
+Lesotho,Lower,13.102
+Lesotho,Median,19.7103
+Lesotho,Upper,29.39
+Liberia,Lower,20.4467
+Liberia,Median,25.8014
+Liberia,Upper,32.2553
+Libya,Lower,1.2929
+Libya,Median,1.8591
+Libya,Upper,2.6702
+Lithuania,Lower,0.8178
+Lithuania,Median,0.8788
+Lithuania,Upper,0.9458
+Luxembourg,Lower,0.4429
+Luxembourg,Median,0.5293
+Luxembourg,Upper,0.6305
+Madagascar,Lower,13.1314
+Madagascar,Median,17.0819
+Madagascar,Upper,21.8762
+Malawi,Lower,10.3143
+Malawi,Median,15.3096
+Malawi,Upper,21.653
+Malaysia,Lower,1.1621
+Malaysia,Median,1.1841
+Malaysia,Upper,1.2065
+Maldives,Lower,1.2744
+Maldives,Median,1.3674
+Maldives,Upper,1.4632
+Mali,Lower,33.6909
+Mali,Median,42.3261
+Mali,Upper,52.3759
+Malta,Lower,0.7978
+Malta,Median,0.9218
+Malta,Upper,1.0642
+Marshall Islands,Lower,3.7061
+Marshall Islands,Median,6.3153
+Marshall Islands,Upper,10.9965
+Mauritania,Lower,10.4913
+Mauritania,Median,27.9594
+Mauritania,Upper,65.2005
+Mauritius,Lower,1.6087
+Mauritius,Median,1.7231
+Mauritius,Upper,1.8471
+Mexico,Lower,2.0875
+Mexico,Median,2.2201
+Mexico,Upper,2.3754
+Micronesia (Federated States of),Lower,1.9996
+Micronesia (Federated States of),Median,5.7431
+Micronesia (Federated States of),Upper,19.6553
+Monaco,Lower,0.488
+Monaco,Median,0.6359
+Monaco,Upper,0.832
+Mongolia,Lower,2.6699
+Mongolia,Median,2.7381
+Mongolia,Upper,2.808
+Montenegro,Lower,0.3375
+Montenegro,Median,0.3861
+Montenegro,Upper,0.442
+Morocco,Lower,2.8335
+Morocco,Median,3.4968
+Morocco,Upper,4.3106
+Mozambique,Lower,16.1283
+Mozambique,Median,23.3747
+Mozambique,Upper,34.3744
+Myanmar,Lower,7.1739
+Myanmar,Median,10.9102
+Myanmar,Upper,15.4653
+Namibia,Lower,7.8631
+Namibia,Median,14.2066
+Namibia,Upper,28.5772
+Nauru,Lower,3.0258
+Nauru,Median,6.0924
+Nauru,Upper,12.6675
+Nepal,Lower,4.842
+Nepal,Median,6.2804
+Nepal,Upper,8.3223
+Netherlands,Lower,0.5848
+Netherlands,Median,0.5999
+Netherlands,Upper,0.6151
+New Zealand,Lower,0.8385
+New Zealand,Median,0.8958
+New Zealand,Upper,0.9534
+Nicaragua,Lower,2.4359
+Nicaragua,Median,2.7167
+Nicaragua,Upper,3.1039
+Niger,Lower,24.7389
+Niger,Median,41.8642
+Niger,Upper,66.7095
+Nigeria,Lower,40.7595
+Nigeria,Median,50.4821
+Nigeria,Upper,63.1925
+Niue,Lower,1.589
+Niue,Median,4.0913
+Niue,Upper,14.1471
+Norway,Lower,0.472
+Norway,Median,0.4986
+Norway,Upper,0.5263
+Oman,Lower,1.548
+Oman,Median,1.5982
+Oman,Upper,1.6496
+Pakistan,Lower,12.107
+Pakistan,Median,14.1869
+Pakistan,Upper,16.5797
+Palau,Lower,1.0061
+Palau,Median,1.8166
+Palau,Upper,3.2866
+Panama,Lower,1.4121
+Panama,Median,2.3346
+Panama,Upper,4.4807
+Papua New Guinea,Lower,7.3142
+Papua New Guinea,Median,10.6301
+Papua New Guinea,Upper,15.2502
+Paraguay,Lower,1.7231
+Paraguay,Median,3.2287
+Paraguay,Upper,7.495
+Peru,Lower,2.9448
+Peru,Median,3.3904
+Peru,Upper,3.9251
+Philippines,Lower,4.9847
+Philippines,Median,6.3315
+Philippines,Upper,8.4446
+Poland,Lower,0.6532
+Poland,Median,0.6675
+Poland,Upper,0.6821
+Portugal,Lower,0.6234
+Portugal,Median,0.6505
+Portugal,Upper,0.6792
+Qatar,Lower,1.0279
+Qatar,Median,1.0911
+Qatar,Upper,1.1576
+"Korea, Rep.",Lower,0.4874
+"Korea, Rep.",Median,0.4979
+"Korea, Rep.",Upper,0.5084
+Republic of Moldova,Lower,1.7294
+Republic of Moldova,Median,2.161
+Republic of Moldova,Upper,2.8165
+Republic of North Macedonia,Lower,1.3808
+Republic of North Macedonia,Median,1.4976
+Republic of North Macedonia,Upper,1.6267
+Romania,Lower,1.4128
+Romania,Median,1.4482
+Romania,Upper,1.4845
+Russian Federation,Lower,1.0776
+Russian Federation,Median,1.0987
+Russian Federation,Upper,1.1199
+Rwanda,Lower,5.4083
+Rwanda,Median,9.9605
+Rwanda,Upper,19.2986
+Saint Kitts and Nevis,Lower,2.1559
+Saint Kitts and Nevis,Median,2.7477
+Saint Kitts and Nevis,Upper,3.4999
+Saint Lucia,Lower,2.16
+Saint Lucia,Median,2.3861
+Saint Lucia,Upper,2.6523
+Saint Vincent and the Grenadines,Lower,1.2592
+Saint Vincent and the Grenadines,Median,1.4702
+Saint Vincent and the Grenadines,Upper,1.7092
+Samoa,Lower,1.7546
+Samoa,Median,2.3345
+Samoa,Upper,3.2326
+San Marino,Lower,0.119
+San Marino,Median,0.2119
+San Marino,Upper,0.3846
+Sao Tome and Principe,Lower,4.5771
+Sao Tome and Principe,Median,7.6445
+Sao Tome and Principe,Upper,14.2988
+Saudi Arabia,Lower,0.9404
+Saudi Arabia,Median,1.1437
+Saudi Arabia,Upper,1.4302
+Senegal,Lower,12.0707
+Senegal,Median,15.8302
+Senegal,Upper,20.4949
+Serbia,Lower,0.7478
+Serbia,Median,0.785
+Serbia,Upper,0.8237
+Seychelles,Lower,1.7355
+Seychelles,Median,2.0909
+Seychelles,Upper,2.5581
+Sierra Leone,Lower,30.0559
+Sierra Leone,Median,38.0264
+Sierra Leone,Upper,47.8489
+Singapore,Lower,0.5012
+Singapore,Median,0.5381
+Singapore,Upper,0.5783
+Slovak Republic,Lower,1.0816
+Slovak Republic,Median,1.1163
+Slovak Republic,Upper,1.1532
+Slovenia,Lower,0.4316
+Slovenia,Median,0.4706
+Slovenia,Upper,0.5155
+Solomon Islands,Lower,2.2194
+Solomon Islands,Median,3.2554
+Solomon Islands,Upper,4.9179
+Somalia,Lower,24.887
+Somalia,Median,52.2263
+Somalia,Upper,112.4796
+South Africa,Lower,7.4711
+South Africa,Median,8.1609
+South Africa,Upper,8.9434
+South Sudan,Lower,13.4175
+South Sudan,Median,36.0505
+South Sudan,Upper,72.5408
+Spain,Lower,0.5305
+Spain,Median,0.5435
+Spain,Upper,0.5572
+Sri Lanka,Lower,1.1072
+Sri Lanka,Median,1.1945
+Sri Lanka,Upper,1.2869
+State of Palestine,Lower,2.2974
+State of Palestine,Median,3.1324
+State of Palestine,Upper,4.5806
+Sudan,Lower,15.0664
+Sudan,Median,20.8075
+Sudan,Upper,27.8529
+Suriname,Lower,1.5293
+Suriname,Median,2.1346
+Suriname,Upper,3.2661
+Sweden,Lower,0.5103
+Sweden,Median,0.5317
+Sweden,Upper,0.5541
+Switzerland,Lower,0.4845
+Switzerland,Median,0.5066
+Switzerland,Upper,0.5302
+Syrian Arab Republic,Lower,3.3847
+Syrian Arab Republic,Median,5.3913
+Syrian Arab Republic,Upper,6.8762
+Tajikistan,Lower,3.3006
+Tajikistan,Median,4.8776
+Tajikistan,Upper,7.4152
+Thailand,Lower,1.3096
+Thailand,Median,1.4786
+Thailand,Upper,1.7449
+Timor-Leste,Lower,3.9965
+Timor-Leste,Median,7.4575
+Timor-Leste,Upper,14.2483
+Togo,Lower,20.2358
+Togo,Median,25.2569
+Togo,Upper,31.0006
+Tonga,Lower,1.8741
+Tonga,Median,2.3977
+Tonga,Upper,3.1589
+Trinidad and Tobago,Lower,1.0181
+Trinidad and Tobago,Median,2.0737
+Trinidad and Tobago,Upper,6.1367
+Tunisia,Lower,2.3773
+Tunisia,Median,2.4404
+Tunisia,Upper,2.5127
+Turkey,Lower,1.5886
+Turkey,Median,1.7131
+Turkey,Upper,1.8606
+Turkmenistan,Lower,4.1843
+Turkmenistan,Median,5.9526
+Turkmenistan,Upper,8.4747
+Tuvalu,Lower,2.2342
+Tuvalu,Median,4.2612
+Tuvalu,Upper,9.3879
+Uganda,Lower,12.2314
+Uganda,Median,15.8226
+Uganda,Upper,20.2701
+Ukraine,Lower,1.2856
+Ukraine,Median,1.3258
+Ukraine,Upper,1.3678
+United Arab Emirates,Lower,1.0565
+United Arab Emirates,Median,1.1303
+United Arab Emirates,Upper,1.2092
+United Kingdom of Great Britain and Northern Ireland,Lower,0.6158
+United Kingdom of Great Britain and Northern Ireland,Median,0.6282
+United Kingdom of Great Britain and Northern Ireland,Upper,0.6408
+United Republic of Tanzania,Lower,12.3342
+United Republic of Tanzania,Median,16.6777
+United Republic of Tanzania,Upper,22.6791
+United States of America,Lower,0.951
+United States,Median,0.9714
+United States of America,Upper,0.993
+Uruguay,Lower,1.1308
+Uruguay,Median,1.1712
+Uruguay,Upper,1.2122
+Uzbekistan,Lower,2.0091
+Uzbekistan,Median,2.3241
+Uzbekistan,Upper,2.7103
+Vanuatu,Lower,2.7174
+Vanuatu,Median,4.6494
+Vanuatu,Upper,8.5609
+Venezuela (Bolivarian Republic of),Lower,2.9144
+Venezuela (Bolivarian Republic of),Median,3.2219
+Venezuela (Bolivarian Republic of),Upper,3.5556
+Viet Nam,Lower,3.8855
+Viet Nam,Median,4.3566
+Viet Nam,Upper,5.052
+Yemen,Lower,8.4775
+Yemen,Median,14.167
+Yemen,Upper,23.0938
+Zambia,Lower,17.7015
+Zambia,Median,21.7161
+Zambia,Upper,26.3517
+Zimbabwe,Lower,14.9089
+Zimbabwe,Median,18.93
+Zimbabwe,Upper,23.6155
