@@ -29,8 +29,8 @@ It should be noted that healthcare outcomes are the products of complex sets of 
 
 (Note that none of these are links to the files themselves, all of these pages contain links to the files. For the raw CSV/XLSXs themselves, check [the github](https://github.com/Sunil-Narayan/367/tree/main/Assignments/Final))
 
-[World Bank GDP Per Capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?most_recent_value_desc=true) 
-This data will be imported as a csv to the project. It shows the current (non-PPP adjusted) GDP per capita for each country.
+[World Bank GDP Per Capita](https://ourworldindata.org/grapher/gdp-per-capita-worldbank) 
+This data will be imported as a csv to the project. It shows the current (PPP adjusted) GDP per capita for each country.
 
 [WHO Data Tool](https://apps.who.int/nha/database/Select/Indicators/en)
 This data will be imported as a XLSX. This shows the public and private spending on healthcare as a proportion of GDP. 
